@@ -61,7 +61,7 @@ python setup.py install
 * 'numpy>=1.11'
 * 'matplotlib>=1.5'
 * 'pandas'
-* cv2'
+* 'opencv-python'
 * 'scipy'
 * 'mediapipe'
 ```
