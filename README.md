@@ -64,7 +64,6 @@ python setup.py install
 * cv2'
 * 'scipy'
 * 'mediapipe'
-* 'time'
 ```
 
 ## Usage
